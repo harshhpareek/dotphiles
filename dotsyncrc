@@ -8,7 +8,7 @@
 #
 
 # Location of your dotfiles in $HOME
-# DOTFILES=.dotfiles
+DOTFILES=.dotfiles
 
 # dotfiles to symlink
 #
@@ -24,8 +24,8 @@ dotsyncrc
 #ctags/ctags
 #cmus
 #curl/curlrc
-#git/gitconfig
-#git/gitignore
+git/gitconfig
+git/gitignore
 #git/gitattributes
 #git/tigrc
 #git/gitk
@@ -44,7 +44,7 @@ dotsyncrc
 #ncmpcpp/config
 #ncmpcpp/error.log
 #postgresql/psqlrc
-#python/pythonrc
+python/pythonrc
 #python/pylintrc
 #rpm/rpmmacros
 #ruby/irbrc
@@ -63,17 +63,17 @@ dotsyncrc
 #task/taskrc
 #tmux/tmux.conf
 #tmux/tmuxinator
-#vim/dotvim:.vim
-#vim/vimrc
+vim/dotvim:.vim
+vim/vimrc
 #vim/gvimrc
 #wget/wgetrc
 #zsh/fasdrc
-#zsh/dotzsh:.zsh
+zsh/dotzsh:.zsh
 #zsh/zlogin
 #zsh/zlogout
 #zsh/zprofile
 #zsh/zshenv
-#zsh/zshrc
+zsh/zshrc
 [endfiles]
 
 # Hosts to sync
